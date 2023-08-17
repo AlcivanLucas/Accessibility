@@ -7,7 +7,7 @@
   <a href="acessivel.vercel.app">Demo</a>
 </div>
 
-<h1 align="center">Acessivel-Projeto Extensão II</h1>
+<h1 align="center">Accessibility-Projeto Extensão II</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/juniorvilas/nlw-setup?color=56BEB8">
